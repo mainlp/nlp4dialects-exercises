@@ -1,5 +1,10 @@
 # Dialect (and standard-language) texts
 
+## (Some) multilingual tokenizers
+
+- https://huggingface.co/google-bert/bert-base-multilingual-cased
+- https://huggingface.co/FacebookAI/xlm-roberta-base
+
 ## Arabic
 
 Standard
@@ -7,6 +12,9 @@ Standard
 
 Non-standard
 - ajp_madar-ud-test: South Levantine Arabic, CC BY-SA 4.0, https://github.com/UniversalDependencies/UD_South_Levantine_Arabic-MADAR
+
+Tokenizers
+- https://huggingface.co/aubmindlab/bert-base-arabertv2
 
 ## German
 
@@ -26,6 +34,12 @@ Other standardized languages -- for comparison to see how the German tokenizatio
 - nl_alpino-ud-train: Dutch, CC BY-SA 4.0, https://github.com/UniversalDependencies/UD_Dutch-Alpino/
 - nl_lassysmall-ud-train: Dutch, CC BY-SA 4.0, https://github.com/UniversalDependencies/UD_Dutch-LassySmall
 
+Tokenizers
+- https://huggingface.co/deepset/gbert-base (German)
+- https://huggingface.co/dbmdz/bert-base-german-cased (German)
+- https://huggingface.co/google-bert/bert-base-german-cased (German)
+- https://huggingface.co/GroNLP/bert-base-dutch-cased (Dutch)
+
 ## Greek
 
 Standard
@@ -39,6 +53,9 @@ Non-standard
 - el_lesbian-ud-test: Lesbian Greek, CC BY-SA 4.0, https://github.com/UniversalDependencies/UD_Greek-Lesbian/
 - el_messinian-ud-...: Messinian Greek, CC BY-SA 4.0, https://github.com/UniversalDependencies/UD_Greek-Messinian/
 
+Tokenizer
+- https://huggingface.co/nlpaueb/bert-base-greek-uncased-v1
+
 ## Italian
 
 Standard
@@ -49,3 +66,7 @@ Non-standard
 - lij_glt-ud-...: Ligurian (Genoese), C-UDA 1.0 (https://github.com/UniversalDependencies/UD_Ligurian-GLT/blob/master/LICENSE.txt), https://github.com/UniversalDependencies/UD_Ligurian-GLT/
 - nap_rb-ud-test: Neapolitan, CC BY-SA 4.0, https://github.com/UniversalDependencies/UD_Neapolitan-RB/
 - scn_stb-ud-test: Sicilian, CC BY-SA 4.0, https://github.com/UniversalDependencies/UD_Sicilian-STB/
+
+Tokenizer
+- https://huggingface.co/dbmdz/bert-base-italian-cased
+- https://huggingface.co/dlicari/Italian-Legal-BERT
