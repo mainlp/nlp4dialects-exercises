@@ -43,14 +43,9 @@ Non-standard
 
 Standard
 - it_isdt-ud-...: Italian, CC BY-NC-SA 3.0 Unported, https://github.com/UniversalDependencies/UD_Italian-ISDT/
+- it_vit-ud-train: Italian (the dataset refers to Venice, but doesn't seem to contain Venetian data), CC BY-NC-SA 3.0, https://github.com/UniversalDependencies/UD_Italian-VIT
 
 Non-standard
 - lij_glt-ud-...: Ligurian (Genoese), C-UDA 1.0 (https://github.com/UniversalDependencies/UD_Ligurian-GLT/blob/master/LICENSE.txt), https://github.com/UniversalDependencies/UD_Ligurian-GLT/
 - nap_rb-ud-test: Neapolitan, CC BY-SA 4.0, https://github.com/UniversalDependencies/UD_Neapolitan-RB/
 - scn_stb-ud-test: Sicilian, CC BY-SA 4.0, https://github.com/UniversalDependencies/UD_Sicilian-STB/
-
-- it_vit-ud-train: ...., CC BY-NC-SA 3.0, https://github.com/UniversalDependencies/UD_Italian-VIT
-
-
-
-
