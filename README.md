@@ -1,10 +1,10 @@
-# Spelling variation & tokenization
+# NLP for Dialects: Spelling variation & tokenization
 
-*Hands-on exercise for NLP for Dialects MSc seminar taught by Prof. Dr. Barbara Plank, Verena Blaschke & Ryan Soh-Eun Shim.*
+*This is a hands-on exercise for the NLP for Dialects MSc seminar taught by Prof. Dr. Barbara Plank, Verena Blaschke & Ryan Soh-Eun Shim.*
 
-First, please **read the PDF with the instructions**. 
+First, please **read the [PDF with the instructions](/nlp4dialects_handson_tokenization.pdf)**.
 
-This repo contains data and code to get you started. The files in the `arabic`, `german`, `greek`, and `italian` are sourced from Universal Dependencies datasets that are described below.
+This repo contains some data and code to get you started. The files in the `arabic`, `german`, `greek`, and `italian` are sourced from Universal Dependencies datasets that are described below (see also the note at the very bottom).
 For working with the CODET data, see `demo_code_paralleldata.ipynb`.
 
 The tokenizers listed here are by no means a comprehensive list, and you're welcome to also try out others.
@@ -92,3 +92,4 @@ Links to the licenses:
 - CC BY-NC-SA 3.0: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en
 - C-UDA 1.0: https://github.com/UniversalDependencies/UD_Ligurian-GLT/blob/master/LICENSE.txt
 
+If you re-distribute the data files in any form, make sure to do this in accordance with the license terms.
