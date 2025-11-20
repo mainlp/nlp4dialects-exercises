@@ -35,7 +35,7 @@ token_ids = tokenizer(
     padding=True,  # In order to tokenize multiple sentences at once,
                    # the result needs to have the same number of tokens
                    # -- this is achieved by adding dummy tokens as padding
-                   # (token ID: 0, token: [PAD])
+                   # (token ID: 0, token: [PAD], <pad>, or similar)
 ).input_ids
 # This results in a matrix of token IDs:
 # a 2D tensor of size num_sentences x max_tokens_per_sentences.
@@ -44,7 +44,7 @@ token_ids = tokenizer(
 # (like measuring the average length), we can convert the token IDs
 # into token forms:
 tokens = [[token for token in tokenizer.convert_ids_to_tokens(sent_token_ids)
-           if token != "[PAD]"]  # Removing the padding tokens
+           if token != tokenizer.pad_token]  # Removing the padding tokens
           for sent_token_ids in token_ids
           ]
 print(tokens[:3])
