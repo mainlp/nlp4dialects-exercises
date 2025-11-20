@@ -9,7 +9,7 @@ for file in glob("*/*.txt"):
     dataset = file[:-4]
     print(dataset)
     text = []
-    with open("german/de_gsd-ud-dev.txt") as f:
+    with open(file) as f:
         for line in f:
             text.append(line.strip())
     dataset2text[dataset] = text
