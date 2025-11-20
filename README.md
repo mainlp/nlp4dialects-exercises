@@ -1,5 +1,7 @@
 # Spelling variation & tokenization
 
+*Hands-on exercise for NLP for Dialects MSc seminar taught by Prof. Dr. Barbara Plank, Verena Blaschke & Ryan Soh-Eun Shim.*
+
 First, please **read the PDF with the instructions**. 
 
 This repo contains data and code to get you started. The files in the `arabic`, `german`, `greek`, and `italian` are sourced from Universal Dependencies datasets that are described below.
@@ -21,7 +23,7 @@ Non-standard
 - ajp_madar-ud-test: South Levantine Arabic, CC BY-SA 4.0, https://github.com/UniversalDependencies/UD_South_Levantine_Arabic-MADAR
 - If you would like to use additional Arabic data, you can download the [AraBench](https://alt.qcri.org/resources1/mt/arabench/) dataset.
 
-Tokenizers
+Tokenizer
 - https://huggingface.co/aubmindlab/bert-base-arabertv2
 
 ## German
@@ -75,7 +77,7 @@ Non-standard
 - nap_rb-ud-test: Neapolitan, CC BY-SA 4.0, https://github.com/UniversalDependencies/UD_Neapolitan-RB/
 - scn_stb-ud-test: Sicilian, CC BY-SA 4.0, https://github.com/UniversalDependencies/UD_Sicilian-STB/
 
-Tokenizer
+Tokenizers
 - https://huggingface.co/dbmdz/bert-base-italian-cased
 - https://huggingface.co/dlicari/Italian-Legal-BERT
 
