@@ -1,0 +1,57 @@
+INDEX	TEXT_ASR	INTENT	TEXT_GOLD
+1	zeige alle erinnerungen	reminder/show_reminders	zeige alle erinnerungen
+2	benötige ich einen pollover	weather/find	benötige ich einen pullover?
+3	eine erinnerung für heute um vier uhr nachmittags hinzufügen	reminder/set_reminder	eine erinnerung für heute um 4 uhr nachmittags hinzufügen
+5	erinnere mich gas zu kaufen	reminder/set_reminder	erinnere mich gas zu kaufen.
+6	benötige ich am mittwoch einden regenschirm	weather/find	benötige ich am mittwoch einen regenschirm?
+8	er stelle eine geburtszeugserinnerung für max	reminder/set_reminder	erstelle eine geburtstagserinnerung für max
+9	zeige mir alle erinnerungen	reminder/show_reminders	zeig mir alle erinnerungen
+10	zeige alle wecker	alarm/show_alarms	zeige alle wecker.
+11	regnet es heute	weather/find	regnet es heute?
+12	stelle den wecker auf acht uhr ein	alarm/set_alarm	stelle den wecker auf 8:00 uhr ein
+13	wie ist die temperatur heute	weather/find	wie ist die temperatur heute?
+14	i zeite meine erinnerung	reminder/show_reminders	zeige meine erinnerung
+15	alle wäcker anzeigen	alarm/show_alarms	alle wecker anzeigen
+16	erinnere mich mit ben über georga zu reden	reminder/set_reminder	erinnere mich mit ben über georgia zu reden
+17	er stelle einen wäcker für fünf uhr morgens	alarm/set_alarm	erstelle einen wecker für 5 uhr morgens
+18	ist es heute bewölkt	weather/find	ist es heute bewölkt
+19	wie viele millimeter regen werden wir heute bekommen	weather/find	wie viele millimeter regen werden wir heute bekommen?
+20	erinnere mich morgen meine schwester anzurufen	reminder/set_reminder	erinnere mich, morgen meine schwester anzurufen
+21	schallte wäcker aus	alarm/cancel_alarm	schalte wecker aus
+22	wärd das diese woche heiß	weather/find	wird es diese woche heiß?
+23	er stelle einen wecker für drei uhr nachmittags	alarm/set_alarm	erstelle einen wecker für 3 uhr nachmittags.
+24	da wird es heute schneien	weather/find	wird es heute schneien
+25	entferne alle wecker	alarm/cancel_alarm	entferne alle wecker
+26	zeigen mir meine erinnerungen	reminder/show_reminders	zeig mir meine erinnerungen
+28	was sind meine erinnerungen	reminder/show_reminders	was sind meine erinnerungen?
+29	er stelle einen träglichen wecker für acht uhr morgens	alarm/set_alarm	erstelle einen täglichen wecker für 8 uhr morgens
+30	kannst du mir die wecke anzeigen	alarm/show_alarms	kannst du mir die wecker anzeigen?
+31	erwartet disney world heute stürme	weather/find	erwartet disney world heute stürme?
+32	wird es heute schnein	weather/find	wird es heute schneien
+33	zeige alle weg	alarm/show_alarms	zeige alle wecker
+34	ist es heute kalt	weather/find	ist es heute kalt?
+35	mittelösche den wecker für donnerstag morgen	alarm/cancel_alarm	bitte lösche den wecker für donnerstagmorgen.
+36	regne das heute	weather/find	regnet es heute?
+37	schneid es in kanada	weather/find	schneit es in kanada
+38	was wird die höchste temperatur heute	weather/find	was wird die höchsttemperatur heute?
+39	wird es heute nacht genug schneien um das reisen gefährlich zu machen	weather/find	wird es heute nacht genug schneien, um das reisen gefährlich zu machen?
+40	zeige alle erinnerungen	reminder/show_reminders	zeige alle erinnerungen
+42	brauche ich morgen eine jacke	weather/find	brauche ich morgen eine jacke?
+45	zeige alle wecker an	alarm/show_alarms	zeige alle wecker an
+46	wie ist das wetter in	weather/find	wie ist das wetter in yellowstone?
+47	wie ist das wetter heute	weather/find	wie ist das wetter heute?
+49	erinnere mich morgen zu dieser zeit einen arztermin zu vereinbaren	reminder/set_reminder	erinnere mich morgen zu dieser zeit einen arzttermin zu vereinbaren
+50	ich erinnere mich die miete abzugeben	reminder/set_reminder	erinnere mich, die miete abzugeben
+51	wann wird es aufhören zu regnen	weather/find	wann wir es aufhören zu regnen?
+52	wegerlöschen	alarm/cancel_alarm	wecker löschen
+53	erinnere mich stefani am dienstag anzurufen	reminder/set_reminder	erinnere mich stephanie am dienstag anzurufen
+54	zeige mir alle meine wegzeiten	alarm/show_alarms	zeige mir alle meine weckzeiten
+55	wie heiß wird as heute	weather/find	wie heiß wird es heute?
+56	setze einen wecker für siebzehn uhr heute abend	alarm/set_alarm	setze einen wecker für 17 uhr heute abend
+57	erinnere mich daran am august um fünfzehn uhr zum arzt zu gehen	reminder/set_reminder	erinnere mich daran, am 21. august um 15 uhr zum arzt zu gehen
+59	wann zeigt die wettervorhersage den nächsten regen an	weather/find	wann zeigt die wettervorhersage den nächsten regen an?
+60	wann ist mein wecker für morgen früh eingestellt	alarm/show_alarms	wann ist mein wecker für morgen früh eingestellt?
+107	erinnere mich für cen die blumen abzuholen für unseren jahrestag am	reminder/set_reminder	erinnere mich für jen die blumen abzuholen für unseren jahrestag am 28.
+158	welche wecker sind eingestellt	alarm/show_alarms	welche wecker sind eingestellt?
+171	erinnere mich die arbeitsemails heute abend zu beantworten	reminder/set_reminder	erinnere mich die arbeitsemails heute abend zu beantworten
+336	ich möchte eine brasterie für drei personen auf den niederländischen antillen buchen	BookRestaurant	ich möchte eine brasserie für 3 personen auf den niederländischen antillen buchen .
