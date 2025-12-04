@@ -1,7 +1,7 @@
 # Dialect ASR: German and Bavarian audios
 
 ## Usage note & references
-These files aren't officially released yet. *Don't* share them with others or upload them where others can access them. *Don't* use them for any purposes other than this seminar exercise.
+The audio files we share with you (see next section) aren't officially released yet. *Don't* share them with others or upload them where others can access them. *Don't* use them for any purposes other than this seminar exercise.
 
 For more information on the files, see
 > Standard-to-Dialect Transfer Trends Differ across Text and Speech: A Case Study on Intent and Topic Classification in German Dialects. Blaschke, Winkler & Plank. Unpublished preprint, 2025. https://arxiv.org/abs/2510.07890
